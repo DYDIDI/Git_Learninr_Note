@@ -18,3 +18,4 @@ https://www.runoob.com/git/git-create-repository.html
 2.  推荐使用git tag -a v1.0 这样的语法，-a表示有带注签的提交。
 ## 跳过了gitflow和git进阶用法
 ## github
+1.  添加远程库：需要ssh key
